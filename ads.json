@@ -1,1 +1,18 @@
-{}
+{
+    "DK-IDM": {
+        "projectName": "DK-IDM",
+        "description": "for authentication",
+        "type": "community",
+        "author": "chestercheong808",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/chestercheong808/agamalab-demo",
+        "githubUri": "https://github.com/chestercheong808/agamalab-demo",
+        "license": "apache-2.0",
+        "lastUpdated": "1719559427859",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
